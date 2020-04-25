@@ -136,3 +136,4 @@ sensor:
     resources:
       - ups.status.display
 ```
+For Homeassistant to be able to connect to and display the UPS Status makes sure to add 3493 as a Port for the Host entry under the Network Settings on the addon page http://homeassistant:8123/hassio/addon/a0d7b954_nut
